@@ -191,8 +191,7 @@ export default {
     {
       referencia:
         'Hoyos, R. (2019). Plan de <i>marketing</i>, diseño, implementación y control. ECOE Ediciones.',
-      link:
-        'https://www.ecoeediciones.mx/wp-content/uploads/2015/09/Plan-de-Marketing-1ra-edici%C3%B3n.pdf',
+      link: '',
     },
     {
       referencia:
@@ -202,13 +201,11 @@ export default {
     {
       referencia:
         'Galicia, Luis Alberto. (2013). Entorno e información de mercados. Publicaciones de la Universitaria Jaume.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_vitalsource788498395228',
+      link: '',
     },
     {
       referencia: 'Monteferrer, D. (2020). Fundamentos de <i>marketing.</i>',
-      link:
-        'https://repositori.uji.es/xmlui/bitstream/handle/10234/49394/s74.pdf',
+      link: 'https://doi.org/10.6035/Sapientia74',
     },
   ],
   creditos: [
